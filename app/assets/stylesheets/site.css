@@ -1,0 +1,18 @@
+.box {
+	height: 100px;
+	width: 400px;
+	border: 2px black solid;
+	background: blue;
+	margin: 20px auto;
+	cursor: pointer;
+}
+
+.newbox {
+	height: 50px;
+	width: 400px;
+	border: 2px black solid;
+	background: red;
+	margin: 20px auto;
+	cursor: pointer;
+
+}
